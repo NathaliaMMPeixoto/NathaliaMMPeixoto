@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Nathália Peixoto.
 - 👀 I'm
 - 👀 I’m interested in ...
-- 🌱 I’m currently taking pos graduate course in engineering software at Universidade Estácio de Sá.
+- 👷‍♀️ I’m currently taking pos graduate course in engineering software at Universidade Estácio de Sá.
 - 💞️ I’m looking to collaborate on ...
--    Brazilian who lives in Rio de Janeiro
+- 🏡 Brazilian who lives in Rio de Janeiro
 - 📫 How to reach me ...
 
 <!---
