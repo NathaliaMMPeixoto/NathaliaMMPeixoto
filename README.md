@@ -1,3 +1,5 @@
+Hello, I'm Nathália Peixoto. 
+
 - 👋 Hi, I’m Nathália Peixoto.
 - 👀 I'm
 - 👀 I’m interested in ...
