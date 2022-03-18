@@ -1,7 +1,7 @@
-Hello, I'm Nathália Peixoto. 
+### Hello, I'm Nathália Peixoto. 
 
-- 👋 Hi, I’m Nathália Peixoto.
-- 👀 I'm
+
+- 👀 I'm currently learning React, Bootstrap and Redux.
 - 👀 I’m interested in ...
 - 👷‍♀️ I’m currently taking pos graduate course in engineering software at Universidade Estácio de Sá.
 - 💞️ I’m looking to collaborate on ...
