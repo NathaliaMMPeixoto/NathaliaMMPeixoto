@@ -7,11 +7,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 🏡 Brazilian who lives in Rio de Janeiro
 - 📫 How to reach me: you can e-mail me nathalia.mmpeixoto@hotmail.com or find me on linkedin www.linkedin.com/in/nathaliapeixoto 
--    My experiences: <div style="display: inline_block"><br>
-  <img align="center" alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nath-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Nath-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Nath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+-    My experiences: 
+<div style="display: inline_block"><br>
+<img align="center" alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Nath-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+<img align="center" alt="Nath-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+<img align="center" alt="Nath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
 </div>
