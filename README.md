@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 🏡 Brazilian who lives in Rio de Janeiro
 - 📫 How to reach me: you can e-mail me nathalia.mmpeixoto@hotmail.com or find me on linkedin www.linkedin.com/in/nathaliapeixoto 
--    My experiences: JavaScript, Java, Html and CSS
+- 💻 My experiences: JavaScript, Java, Html and CSS
 
   
 </div>
