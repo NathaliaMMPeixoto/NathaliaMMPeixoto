@@ -1,12 +1,12 @@
 ### Hello, I'm Nathália Peixoto. 
 
 - 💞️ I’m interested in programming and technology content.
-- 👀 I'm currently learning React, Bootstrap and Redux.
+- 👀 I'm currently learning React, Bootstrap and JSP.
 - 👷‍♀️ I’m currently taking pos graduate course in engineering software at Universidade Estácio de Sá.
 - 📚 Advanced English Knowledge.
 - 🏡 Brazilian who lives in Rio de Janeiro.
 - 📫 How to reach me: you can e-mail me nathalia.mmpeixoto@hotmail.com or find me on linkedin www.linkedin.com/in/nathaliapeixoto 
-- 💻 My experiences: JavaScript, Java, JSP, Html and CSS.
+- 💻 My experiences: JavaScript, Java, Html and CSS.
 - 🍃 Curiosity: I'm enviromental engineer.
 
   
