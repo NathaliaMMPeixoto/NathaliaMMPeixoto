@@ -1,7 +1,7 @@
 ### Hello, I'm Nathália Peixoto. 
 
 - 💞️ I’m interested in programming and technology content.
-- 👀 I'm currently learning React, Bootstrap and JSP.
+- 👀 I'm currently improving my knowledge in Java.
 - 👷‍♀️ I’m currently taking pos graduate course in engineering software at Universidade Estácio de Sá.
 - 📚 Advanced English Knowledge.
 - 🏡 Brazilian who lives in Rio de Janeiro.
