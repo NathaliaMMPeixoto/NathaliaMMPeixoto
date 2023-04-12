@@ -2,11 +2,10 @@
 
 - 💞️ I’m interested in programming and technology content.
 - 👀 I'm currently improving my knowledge in Java.
-- 👷‍♀️ I’m currently taking pos graduate course in engineering software at Universidade Estácio de Sá.
 - 📚 Advanced English Knowledge.
 - 🏡 Brazilian who lives in Rio de Janeiro.
 - 📫 How to reach me: you can e-mail me nathalia.mmpeixoto@hotmail.com or find me on linkedin www.linkedin.com/in/nathaliapeixoto 
-- 💻 My experiences: JavaScript, Java, Html and CSS.
+- 💻 My experiences: Java, JavaScript, Angular, HTML, CSS, MySQL, Spring Boot, Spring MVC, GIT, GitHub, Lombok, JSP, Maven, Hibernate, Crud,   BootStrap, Postman, TomCat, API RESTful, POO and JWT.
 - 🍃 Curiosity: I'm enviromental engineer.
 
   
